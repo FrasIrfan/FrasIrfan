@@ -3,7 +3,7 @@
 <h1 align="center">Hey👋, I'm Fras</h1>
 <h3 align="center">"Digital Craftsman: Forging Seamless User Experiences"</h3>
 
-- 💬 Ask me about **c/c++|Python|HTML|CSS**
+- 💬 Ask me about **C/C++|Python|HTML|CSS|JS**
 
 - 📫 Reach me at **fras.irfan@outlook.com**
 
