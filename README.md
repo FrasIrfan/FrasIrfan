@@ -2,14 +2,11 @@
 <h3 align="center">Full-Stack Engineer</h3>
 
 <p align="center">
-Full-stack development across React/Next.js, FastAPI, and cloud infrastructure, with a focus on automation systems and scalable backend architecture.
+Software engineer with experience in full-stack development, automation, and cloud infrastructure.
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frasirfan" alt="frasirfan" /></a> </p>
 
-- Experience building automation tooling, ETL pipelines, and AI-integrated systems
-- Focused on end-to-end ownership, from design through deployment
-- Projects: [github.com/FrasIrfan](https://github.com/FrasIrfan)
 - Contact: **fras.irfan@outlook.com**
 
 <h3 align="left">Connect</h3>
