@@ -7,6 +7,8 @@ Software engineer with experience in full-stack development, automation, and clo
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frasirfan" alt="frasirfan" /></a> </p>
 
+- Experience building automation tooling, ETL pipelines, Full stack production grade systems and AI-integrated systems
+- Focused on end-to-end ownership, from design through deployment
 - Contact: **fras.irfan@outlook.com**
 
 <h3 align="left">Connect</h3>
