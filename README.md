@@ -6,9 +6,9 @@ Software engineer with experience in full-stack development, automation, and clo
 </p>
 
 
-- Experience building automation tooling, ETL pipelines, Full stack production grade systems and AI-integrated systems
+- Experience building automation tooling, ETL pipelines, production-grade full-stack systems, and AI-integrated systems
 - Focused on end-to-end ownership, from design through deployment
-- Contact: **fras.irfan@outlook.com**
+- Contact: **[fras.irfan@outlook.com](mailto:fras.irfan@outlook.com)**
 
 <h3 align="left">Connect</h3>
 <p align="left">
